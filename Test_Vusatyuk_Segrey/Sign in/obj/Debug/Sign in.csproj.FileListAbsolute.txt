@@ -1,0 +1,11 @@
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\bin\Debug\Sign in.exe.config
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\bin\Debug\Sign in.exe
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\bin\Debug\Sign in.pdb
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign in.csprojAssemblyReference.cache
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign_in.SignUP.resources
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign_in.SignIN.resources
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign_in.Properties.Resources.resources
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign in.csproj.GenerateResource.cache
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign in.csproj.CoreCompileInputs.cache
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign in.exe
+D:\Test_Vusatyuk_Sergey\Sign in\Sign in\obj\Debug\Sign in.pdb
